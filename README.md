@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @soyisuss
+- 👀 I’m interested in new tecnologies
+- 🌱 I’m currently learning full stack web dev
+- 😄 Pronouns: He/him
+- ⚡ I'm studying AI engineer 
