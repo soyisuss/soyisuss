@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Yael and I'm a AI engineer student, from Mexico</h2>
+<h2 align="center">Hi! My name is Yael and I'm a Artificial Intelligence Engineer student, from Mexico</h2>
 
 ###
 
